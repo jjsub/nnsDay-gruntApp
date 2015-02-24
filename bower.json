@@ -1,0 +1,16 @@
+{
+  "name": "MyFirstGruntfile",
+  "version": "0.0.0",
+  "homepage": "https://github.com/NSS-Cohort-8/MyFirstGruntfile",
+  "authors": [
+    "jjsub <jsamesub@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
